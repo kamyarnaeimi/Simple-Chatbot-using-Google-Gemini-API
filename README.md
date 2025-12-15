@@ -24,12 +24,10 @@ project/
 │── README.md
 
 # 🧠 Usage Example
+
 from google import genai
-
 client = genai.Client(api_key="YOUR_API_KEY")
-
 messages = []
-
 while True:
     user_input = input("User: ")
     if user_input.lower() in ["exit", "quit"]:
