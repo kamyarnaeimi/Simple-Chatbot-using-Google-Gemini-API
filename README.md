@@ -12,13 +12,13 @@ Stable performance in Google Colab
 Clean and extendable codebase
 
 # Installation
-# 1-1 Install the official Gemini SDK:
+1-1 Install the official Gemini SDK:
 pip install google-genai
 
-# 1-2 Add Your API Key:
+1-2 Add Your API Key:
 Get your API Key from ai.google.dev and place it in the script.
 
-# 1-3 📁 Project Structure
+1-3 📁 Project Structure
 project/
 │── chatbot.py
 │── README.md
