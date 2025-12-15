@@ -18,13 +18,8 @@ pip install google-genai
 1-2 Add Your API Key:
 Get your API Key from ai.google.dev and place it in the script.
 
-1-3 📁 Project Structure
-project/
-│── chatbot.py
-│── README.md
 
 # 🧠 Usage Example
-
 from google import genai
 
 client = genai.Client(api_key="YOUR_API_KEY")
@@ -47,4 +42,9 @@ while True:
     print("Bot:", reply)
 
     messages.append({"role": "assistant", "content": reply})
+    
+1-3 📁 Project Structure
+project/
+│── chatbot.py
+│── README.md
 
