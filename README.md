@@ -11,6 +11,9 @@ Stable performance in Google Colab
 
 Clean and extendable codebase
 
+## ✍️ Author
+**Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
+
 # Installation
 1-1 Install the official Gemini SDK:
 pip install google-genai
