@@ -14,8 +14,7 @@ Clean and extendable codebase
 ## ✍️ Author
 **Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
 
-### 2. Python Libraries
-Install the official Whisper library and its dependencies:
+### Python Libraries
 
 pip install google-genai
 
@@ -23,7 +22,7 @@ pip install google-genai
 Get your API Key from ai.google.dev and place it in the script.
 
 
-# 🧠 Usage Example
+### 🧠 Usage Example
 from google import genai
 
 client = genai.Client(api_key="YOUR_API_KEY")
