@@ -23,6 +23,7 @@ Get your API Key from ai.google.dev and place it in the script.
 
 
 ### 🧠 Usage Example
+pip install google-genai
 from google import genai
 
 client = genai.Client(api_key="YOUR_API_KEY")
