@@ -14,8 +14,9 @@ Clean and extendable codebase
 ## ✍️ Author
 **Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
 
-# Installation
-1-1 Install the official Gemini SDK:
+### 2. Python Libraries
+Install the official Whisper library and its dependencies:
+
 pip install google-genai
 
 1-2 Add Your API Key:
